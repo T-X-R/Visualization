@@ -1,0 +1,19 @@
+.chart-panel {
+    position: absolute;
+    top: 110px;
+    right: 15px;
+    bottom: 50px;
+    left: 15px;
+    box-sizing: border-box;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 20px;
+    border-radius: 5px;
+    background: #fff;
+    overflow: hidden;
+    padding: 15px;
+  }
+  
+  .chart{ 
+      height: 100%;
+      width: 100%;
+  }
+  
